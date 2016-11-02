@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="173px" height="191px" viewBox="0 0 173 191" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>Page 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-1.000000, 0.000000)" fill="#FFFFFF">
+            <path d="M15,176 C17.8103636,176 19.1924909,173.784791 19.1924909,171.277609 C19.1924909,168.902245 17.8103636,167 15,167 L8,167 L8,176 L15,176 Z M16,161.040609 C22.6383636,161.040609 26.3133091,165.129609 26.3133091,171.187973 C26.3133091,177.393973 21.8123636,182 15,182 L8,182 L8,191 L0.998945455,191 L0.998945455,161.040609 L16,161.040609 Z" id="Fill-1"></path>
+            <path d="M158,107 L154,117 L162,117 L158,107 Z M166.306844,128 L164,123 L152,123 L149.780616,128 L142,128 L154.307663,99 L161.732338,99 L174.040001,128 L166.306844,128 Z" id="Fill-4"></path>
+            <polygon id="Fill-6" points="32 13 45 13 45 19.0872032 32 19.0872032 32 30 24 30 24 0 47 0 47 6 32 6"></polygon>
+            <polygon id="Fill-9" points="46.4374636 38.3977636 27.2104636 147.390309 131.209736 109.547945"></polygon>
+        </g>
+    </g>
+</svg>
